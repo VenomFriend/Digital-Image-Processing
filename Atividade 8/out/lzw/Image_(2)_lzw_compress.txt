@@ -1,0 +1,4 @@
+Start Bits: 881760
+End Bits: 474544
+Taxa de compressão: 1.858120637917664
+Redundância relativa: 0.4618218109236073
